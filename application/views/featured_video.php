@@ -2,7 +2,7 @@
 
       <div class="breadcrumb-wrap">
          <div class="container">
-            <h2 class="breadcrumb-title">Videos</h2>
+            <h2 class="breadcrumb-title">Video</h2>
             <ul class="breadcrumb-menu list-style">
                <li><a href="<?=BASEURL?>index">Home</a></li>
                <li>Videos</li>
